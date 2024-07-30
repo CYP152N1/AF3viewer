@@ -65,7 +65,7 @@ pip install biopython matplotlib pillow numpy
 python3 AF3viewer.py -i <入力フォルダ> [-r <ランキング基準>] [-a <整列チェーン>]
 ```
 
-- `-i`: 入力フォルダの名前（必須）alphafoldサーバーからダウンロードしたzipファイルを解凍してできたフォルダを指定してください。フォルダ名を変えると動きません。まzip解凍後のフォルダの上の階層でしか動きません。
+- `-i`: 入力フォルダの名前（必須）alphafoldサーバーからダウンロードしたzipファイルを解凍してできたフォルダを指定してください。フォルダ名を変えると動きません。まzip解凍後のフォルダの上の真階層でしか動きません。
 - `-r`: ランキングの基準（`fraction_disordered`, `iptm`, `ptm`, `ranking_score`から選択、デフォルトは`ranking_score`）
 - `-a`: 整列に使用するチェーン（例: `"A"` または `"AB"`、オプション、選択しない場合はすべてのchainでアライメント）
 
