@@ -1,4 +1,5 @@
-# AF3viewer.py AlphaFold Server (AF3用)データ解析ツール
+# AF3viewer.py 
+# AlphaFold Server (AF3用)データ解析ツール
 
 iPTM, PAE, pLDDT viewer via local html for Alphafold server (AF3)
 
