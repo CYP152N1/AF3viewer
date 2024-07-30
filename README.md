@@ -4,6 +4,7 @@
 iPTM, PAE, pLDDT viewer via local html for Alphafold server (AF3)
 
 このツールは、AlphaFold Serverによって生成されたJSONおよびCIFデータを処理し、タンパク質モデルの評価や可視化を行うための解析ツールです。主にpLDDTスコアの評価、アミノ酸配列の解析、コンタクト確率とPAE（Pairwise Aligned Error）の可視化、Cα構造の3Dプロットなどを行います。
+このプログラムとREADMEはほとんどCHatGPT4oさんに作ってもらいました。自己責任でご利用ください。
 
 ## 機能詳細
 
