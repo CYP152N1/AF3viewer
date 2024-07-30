@@ -90,6 +90,8 @@ python3 AF3viewer -i example_data -r ranking_score -a A
 バグの報告や新機能のリクエストは、Issueを作成してください。また、プルリクエストも歓迎します。プロジェクトの改善にご協力いただけることを楽しみにしています。
 
 
+## 出力されるhtmlのイメージ
+
 ![image](https://github.com/user-attachments/assets/8c4f5302-4e10-4ffb-a6a5-98e77f65bcc3)
 
 ![image](https://github.com/user-attachments/assets/b880350b-fa2f-4c01-b231-b87b936feb4d)
